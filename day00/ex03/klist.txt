@@ -1,0 +1,8 @@
+Credentials cache: API:7EC91D9B-4CD5-41AA-9CC0-AC74FF644A0E
+        Principal: manki@42.FR
+
+  Issued                Expires               Principal
+Jul  3 18:31:17 2017  Jul 10 18:31:17 2017  krbtgt/42.FR@42.FR
+Jul  3 18:31:19 2017  Jul 10 18:31:17 2017  ldap/ldap-proxy.42.fr@42.FR
+Jul  3 18:31:19 2017  Jul 10 18:31:17 2017  HTTP/home-piscine.42.fr@42.FR
+Jul  3 19:47:20 2017  Jul 10 18:31:17 2017  host/vgs-fn1.42.fr@42.FR
